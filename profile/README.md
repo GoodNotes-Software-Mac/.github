@@ -1,7 +1,7 @@
 # GoodNotes – Intelligent Note-Taking and Organization App
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9kPwA6eWDUpqrkGfwre2eXVQEoDDHyEshoQ&s" width="250"/>
+  <img src="https://store-images.s-microsoft.com/image/apps.53711.13545614329042837.5c65dd85-c3d1-481b-91b3-2833f55434a1.1c3624e5-58bf-429a-821d-547969617ee4?h=210" width="200"/>
 </div>  
 <br>
 <div align="center">
